@@ -1,4 +1,4 @@
-# Friendly Video Sphere - Backend
+# Fast-API-Python-Backend
 
 This is the backend service for the Friendly Video Sphere application, built with FastAPI.
 
@@ -14,8 +14,8 @@ This is the backend service for the Friendly Video Sphere application, built wit
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd friendly-video-sphere/backend
+   git clone https://github.com/syed-mujtaba-stack/Fast-API-Python-Backend
+   cd Fast-API-Python-Backend
    ```
 
 2. **Create a virtual environment**
@@ -111,4 +111,4 @@ See `.env.example` for all available environment variables.
 
 ## License
 
-[Your License Here]
+MIT
